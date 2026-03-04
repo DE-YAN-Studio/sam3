@@ -148,6 +148,10 @@ tensorboard/
 .DS_Store
 Thumbs.db
 
+# TouchDesigner server — generated outputs
+test_output.png
+test_pipeline_output/
+
 # BPE vocabulary files
 *.bpe
 *.vocab
